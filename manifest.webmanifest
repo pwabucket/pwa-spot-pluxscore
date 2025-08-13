@@ -34,6 +34,16 @@
       "src": "screenshot-mobile-3.jpg",
       "sizes": "1080x1920",
       "type": "image/jpg"
+    },
+    {
+      "src": "screenshot-mobile-4.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpg"
+    },
+    {
+      "src": "screenshot-mobile-5.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpg"
     }
   ]
 }
